@@ -1,5 +1,5 @@
 ---
-name: 辅助决策
+name: decision-coach
 description: 通过结构化提问帮助用户理清需求、分析问题并辅助决策。
 ---
 
