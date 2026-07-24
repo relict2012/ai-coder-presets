@@ -1,7 +1,7 @@
 ---
 name: project-dev-review
-description: "开发计划严格评审技能（仅手动调用）。以技术负责人（Tech Lead）兼架构评审负责人的视角，对开发计划/技术方案是否具备进入开发阶段的条件进行严格判断，而非总结或完善方案。不要自动触发此技能，仅当用户明确通过 /project-dev-review 或手动指定调用时生效。"
-agent_created: false
+disable-model-invocation: true
+description: "开发计划严格评审技能（仅手动调用）。以技术负责人（Tech Lead）兼架构评审负责人的视角，对开发计划/技术方案是否具备进入开发阶段的条件进行严格判断，而非总结或完善方案。"
 ---
 
 # 开发计划严格评审
